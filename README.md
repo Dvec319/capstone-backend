@@ -54,9 +54,4 @@ erDiagram
         string description
         image  image
     }
-
-HOME || --o{ LOGOUT : logout
-LOGOUT {
-
-    }
 ```
