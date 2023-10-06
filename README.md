@@ -3,7 +3,7 @@
 ## Game Idea Manager
 
 - **Project By:** Michael Delvecchio
-- [**LINK TO DEPLOYED SITE**]
+- [**LINK TO DEPLOYED SITE**](https://game-idea-manager-backend.onrender.com/ideas)
 - [**LINK TO FRONTEND**](https://github.com/Dvec319/capstone-frontend)
 - **List of Technologies used/learned:** Ruby, Ruby on Rails, Postgres(Neon), PostgresQL, JWT
 
