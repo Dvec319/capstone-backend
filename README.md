@@ -25,19 +25,6 @@ For my capstone project I'm going to create a backend API setup using Ruby on Ra
 
 ```mermaid
 erDiagram
-    newUSER {
-        string signup
-        string password
-    }
-    newUSER ||--O{ USER : login
-
-    USER {
-        string login
-        string password
-    }
-
-    USER ||--O{ HOME : indexPage
-
     HOME || --O{ SHOW : showIdea
     SHOW{
         string name
